@@ -1,0 +1,53 @@
+/* h1{
+    text-align: center;
+} */
+
+blockquote{
+    text-align: center;
+
+    font-size: 100px;
+}
+
+.form{
+    text-align: center;
+    font-size: 30px;
+}
+
+.copy{
+    text-align: center;
+}
+
+.me{
+font-size:80px;
+text-align:center;
+}
+
+details{
+    text-align: center;
+}
+
+.menu{
+    font-size:25px;
+}
+
+.contact  {
+    font-size: 22px;
+}
+
+
+.men{
+    font-size: 30px;
+}
+
+.summ{
+    font-size:20px ;
+}
+
+summary{
+    font: size 20px; ;
+}
+
+.bio{
+    font: size 30px;
+    text-align: justify;
+}
